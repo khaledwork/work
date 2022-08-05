@@ -2,7 +2,7 @@
   "name": "ultimate",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://khaledwork.github.io/work/ultimate/",
+  "homepage": "https://khaledwork.github.io/work/",
   "type": "module",
   "scripts": {
     "dev": "vite",
